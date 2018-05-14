@@ -1,0 +1,2 @@
+add_lunch_combo aoscp_z2_plus-userdebug
+add_lunch_combo aoscp_z2_plus-eng
